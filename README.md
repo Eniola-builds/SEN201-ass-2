@@ -1,6 +1,10 @@
 # SEN201-ass-2
 Temperature Converter project with full SDLC documentation.
 # SEN 201: Temperature Converter Project
+Name:Ajayi Eniola Ayomikun
+Matric:24/13646
+Department:Computer science
+level:200 level
 
 ## 1. Requirement Analysis (Planning)
 The objective of this project is to create a Python application that converts temperature from Celsius to Fahrenheit. This fulfills the requirements for the SEN 201 Assignment to implement a project and explain its SDLC.
